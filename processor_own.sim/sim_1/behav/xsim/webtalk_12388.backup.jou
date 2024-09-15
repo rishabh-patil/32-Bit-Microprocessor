@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sun Sep 15 12:00:05 2024
+# Process ID: 12388
+# Current directory: C:/Users/Avinash/processor_own/processor_own.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/Avinash/processor_own/processor_own.sim/sim_1/behav/xsim/xsim.dir/test3_mips32_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/Avinash/processor_own/processor_own.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: C:/Users/Avinash/processor_own/processor_own.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/Avinash/processor_own/processor_own.sim/sim_1/behav/xsim/xsim.dir/test3_mips32_behav/webtalk/xsim_webtalk.tcl -notrace
